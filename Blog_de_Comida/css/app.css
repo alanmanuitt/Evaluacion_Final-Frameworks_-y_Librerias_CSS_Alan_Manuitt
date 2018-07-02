@@ -1,0 +1,60 @@
+body {
+    background-image: url(../img/fondo.jpg);
+    background-color: #cccccc;
+    text-align: justify;
+}
+
+.btn-comentario{
+  margin-left:90%; 
+}
+
+#seccion-restorant{
+  margin-left: 20px;
+}
+
+#grad{
+    height: 100px;
+    background:  #2db300;
+    background: linear-gradient(-90deg,  #b3ff99,  #2db300); 
+}
+
+#Top{
+  margin-top: 10px;
+}
+
+.Titulo{
+  color: white;
+  font-family: 'Spirax';
+}
+
+.fix-img{
+  width: 1000px;
+  height: 360px;
+}
+
+#logo{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+ul{
+  margin-top: 10px;
+}
+
+.blanco{
+  color: white;
+}
+
+#fav{
+  background:  #2db300;
+  text-align: center;
+}
+
+#slogan{
+  margin: -11px 0px 0px 120px;
+}
+
+#buscar{
+  float: right;
+}
